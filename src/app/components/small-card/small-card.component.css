@@ -11,9 +11,9 @@ margin-bottom: 15px;
 }
 
 .small-card__photo > img {
-  width: 200%;
-  min-width: 200%;
-  margin-right: 30px;
+  width: 50%;
+  min-width: 90%;
+  margin-right: 5px;
 
 }
 
